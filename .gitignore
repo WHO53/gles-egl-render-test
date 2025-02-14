@@ -5,3 +5,5 @@
 .gdb_history
 *.log
 test
+gles2
+gles3
